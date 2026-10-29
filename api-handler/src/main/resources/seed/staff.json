@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Tyrone Boyer",
+    "email": "tyroneboyer@gmail.com",
+    "phone": "480-221-1885",
+    "messenger": "https://example.com/messenger-link",
+    "role": "TRAVEL_AGENT"
+  },
+  {
+    "name": "Lucas Smith",
+    "email": "lucassmith@yahoo.com",
+    "phone": "312-555-0198",
+    "messenger": "https://example.com/lucas-messenger",
+    "role": "TRAVEL_AGENT"
+  },
+  {
+    "name": "Emma Thompson",
+    "email": "tatevgyozalyan04@gmail.com",
+    "phone": "620-555-0210",
+    "messenger": "https://example.com/emma-messenger",
+    "role": "TRAVEL_AGENT"
+  },
+
+  {
+    "name": "Admin Admin",
+    "email": "admin@admin.com",
+    "phone": "000-000-0000",
+    "messenger": "https://example.com/admin-messenger",
+    "role": "ADMIN"
+  }
+]

@@ -1,0 +1,865 @@
+[
+  {
+    "tourId": "tour-001f",
+    "reviewId": "review-087",
+    "authorName": "David",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2024-06-06",
+    "rate": 5,
+    "reviewContent": "Incredible experience! The guides were knowledgeable and the scenery was beyond breathtaking. Highly recommended for adventure seekers!"
+  },
+  {
+    "tourId": "tour-001f",
+    "reviewId": "review-088",
+    "authorName": "Sophie",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2024-05-14",
+    "rate": 5,
+    "reviewContent": "Absolutely loved every moment. The accommodation was comfortable and the food was fantastic. Will definitely book again!"
+  },
+  {
+    "tourId": "tour-002f",
+    "reviewId": "review-089",
+    "authorName": "Marco",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2024-04-22",
+    "rate": 4,
+    "reviewContent": "Great tour overall. Stunning locations and well-organized itinerary. A few minor hiccups with timing but nothing that ruined the trip."
+  },
+  {
+    "tourId": "tour-002f",
+    "reviewId": "review-090",
+    "authorName": "Anna",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2024-04-10",
+    "rate": 5,
+    "reviewContent": "One of the best travel experiences of my life. The team went above and beyond to make sure everyone was comfortable and happy."
+  },
+  {
+    "tourId": "tour-003f",
+    "reviewId": "review-091",
+    "authorName": "James",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2024-03-30",
+    "rate": 3,
+    "reviewContent": "The destination was beautiful but the group was too large for my taste. Transport could have been better organised."
+  },
+  {
+    "tourId": "tour-003f",
+    "reviewId": "review-092",
+    "authorName": "Elena",
+    "authorImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2024-03-12",
+    "rate": 4,
+    "reviewContent": "Very good experience. I especially loved the local food tasting included in the package. Staff were friendly and helpful."
+  },
+  {
+    "tourId": "tour-004f",
+    "reviewId": "review-093",
+    "authorName": "Thomas",
+    "authorImageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2024-02-28",
+    "rate": 5,
+    "reviewContent": "Perfect from start to finish. Booking was easy, communication was clear, and the tour itself was magical. 10/10!"
+  },
+  {
+    "tourId": "tour-004f",
+    "reviewId": "review-094",
+    "authorName": "Lucia",
+    "authorImageUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2024-02-14",
+    "rate": 4,
+    "reviewContent": "A wonderful week with beautiful landscapes. The guide spoke excellent English and was full of interesting stories about the region."
+  },
+  {
+    "tourId": "tour-001f",
+    "reviewId": "review-095",
+    "authorName": "Kevin",
+    "createdAt": "2024-01-25",
+    "rate": 2,
+    "reviewContent": "Disappointed with some of the promised inclusions that were not delivered. The scenery was great, but value for money could be better."
+  },
+  {
+    "tourId": "tour-002f",
+    "reviewId": "review-096",
+    "authorName": "Marta",
+    "authorImageUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2024-01-08",
+    "rate": 5,
+    "reviewContent": "Exceeded all my expectations! Every detail was thought through, the itinerary was perfectly balanced between activities and free time."
+  },
+  {
+    "tourId": "tour-001f",
+    "reviewId": "review-071",
+    "authorName": "Luca Bianchi",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 5,
+    "reviewContent": "Incredible hike — guides were knowledgeable and the scenery was unforgettable."
+  },
+  {
+    "tourId": "tour-001f",
+    "reviewId": "review-072",
+    "authorName": "Emma Rossi",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-04-12",
+    "rate": 4,
+    "reviewContent": "Absolutely beautiful trails; mountain hut accommodations were rustic but cozy."
+  },
+  {
+    "tourId": "tour-001f",
+    "reviewId": "review-073",
+    "authorName": "Thomas Müller",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-03-05",
+    "rate": 5,
+    "reviewContent": "Well organized and excellent guides. Perfect for intermediate hikers."
+  },
+  {
+    "tourId": "tour-001f",
+    "reviewId": "review-074",
+    "authorName": "Sofia Garcia",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-02-18",
+    "rate": 4,
+    "reviewContent": "Stunning views; long days of walking but worth it. Food in huts was basic."
+  },
+  {
+    "tourId": "tour-002f",
+    "reviewId": "review-075",
+    "authorName": "Daniel Carter",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-01",
+    "rate": 5,
+    "reviewContent": "Amazing resort and beaches — staff were friendly and facilities top-notch."
+  },
+  {
+    "tourId": "tour-002f",
+    "reviewId": "review-076",
+    "authorName": "María López",
+    "authorImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-04-15",
+    "rate": 5,
+    "reviewContent": "All-inclusive was excellent. Plenty of activities and great food choices."
+  },
+  {
+    "tourId": "tour-002f",
+    "reviewId": "review-077",
+    "authorName": "Oliver Smith",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-03-22",
+    "rate": 4,
+    "reviewContent": "Beautiful location; some excursions were a bit crowded but overall great value."
+  },
+  {
+    "tourId": "tour-002f",
+    "reviewId": "review-078",
+    "authorName": "Aisha Khan",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-02-10",
+    "rate": 5,
+    "reviewContent": "Perfect family-friendly resort with lots for kids and adults to enjoy."
+  },
+  {
+    "tourId": "tour-003f",
+    "reviewId": "review-079",
+    "authorName": "James Wilson",
+    "authorImageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-10",
+    "rate": 4,
+    "reviewContent": "Lovely riverside resort and excellent island-hopping trip included."
+  },
+  {
+    "tourId": "tour-003f",
+    "reviewId": "review-080",
+    "authorName": "Nina Patel",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-04-02",
+    "rate": 5,
+    "reviewContent": "Fantastic stay at Sofitel — rooms, pools and service were outstanding."
+  },
+  {
+    "tourId": "tour-003f",
+    "reviewId": "review-081",
+    "authorName": "Lucas Pereira",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-03-12",
+    "rate": 4,
+    "reviewContent": "Great location and snorkeling included made the trip memorable."
+  },
+  {
+    "tourId": "tour-003f",
+    "reviewId": "review-082",
+    "authorName": "Hannah Lee",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-01-28",
+    "rate": 5,
+    "reviewContent": "Excellent mix of relaxation and activities; would book again."
+  },
+  {
+    "tourId": "tour-004f",
+    "reviewId": "review-083",
+    "authorName": "Pierre Dubois",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-18",
+    "rate": 4,
+    "reviewContent": "Cruise itinerary was fantastic; onboard entertainment kept us busy."
+  },
+  {
+    "tourId": "tour-004f",
+    "reviewId": "review-084",
+    "authorName": "Anna Novak",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-04-07",
+    "rate": 5,
+    "reviewContent": "Ports of call were well chosen and shore excursions were excellent."
+  },
+  {
+    "tourId": "tour-004f",
+    "reviewId": "review-085",
+    "authorName": "Marcus Brown",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-03-30",
+    "rate": 4,
+    "reviewContent": "Good value cruise; cabin was comfortable though slightly small for four."
+  },
+  {
+    "tourId": "tour-004f",
+    "reviewId": "review-086",
+    "authorName": "Yuki Tanaka",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-02-21",
+    "rate": 5,
+    "reviewContent": "Wonderful experience — food, shows and ports all exceeded expectations."
+  },
+  {
+    "tourId": "tour-001",
+    "reviewId": "review-001",
+    "authorName": "John Doe",
+    "authorImageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-23",
+    "rate": 5,
+    "reviewContent": "Amazing tour experience with great guides and beautiful locations."
+  },
+  {
+    "tourId": "tour-001",
+    "reviewId": "review-002",
+    "authorName": "Alice Smith",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 4,
+    "reviewContent": "The views were spectacular, but the schedule was a bit tight."
+  },
+  {
+    "tourId": "tour-001",
+    "reviewId": "review-003",
+    "authorName": "James Brown",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-22",
+    "rate": 5,
+    "reviewContent": "Perfect organization and very friendly staff."
+  },
+  {
+    "tourId": "tour-001",
+    "reviewId": "review-004",
+    "authorName": "Emily White",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-21",
+    "rate": 3,
+    "reviewContent": "Good tour, but the meal options were limited."
+  },
+  {
+    "tourId": "tour-001",
+    "reviewId": "review-005",
+    "authorName": "Michael Green",
+    "authorImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-19",
+    "rate": 4,
+    "reviewContent": "Great adventure! Would recommend it to everyone."
+  },
+  {
+    "tourId": "tour-001",
+    "reviewId": "review-006",
+    "authorName": "Sophia Turner",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-18",
+    "rate": 4,
+    "reviewContent": "Unforgettable experience, definitely coming back!"
+  },
+  {
+    "tourId": "tour-001",
+    "reviewId": "review-007",
+    "authorName": "David Lee",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-17",
+    "rate": 2,
+    "reviewContent": "The tour was disappointing due to bad weather."
+  },
+  {
+    "tourId": "tour-001",
+    "reviewId": "review-008",
+    "authorName": "Linda Harris",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-16",
+    "rate": 2,
+    "reviewContent": "Interesting places, but the guide could have been more engaging."
+  },
+  {
+    "tourId": "tour-002",
+    "reviewId": "review-009",
+    "authorName": "Jessica Taylor",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-23",
+    "rate": 5,
+    "reviewContent": "Wonderful experience! Everything was perfect."
+  },
+  {
+    "tourId": "tour-002",
+    "reviewId": "review-010",
+    "authorName": "Robert King",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 4,
+    "reviewContent": "Great itinerary but the bus was a bit cramped."
+  },
+  {
+    "tourId": "tour-002",
+    "reviewId": "review-011",
+    "authorName": "Karen Wright",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-22",
+    "rate": 4,
+    "reviewContent": "Exceeded my expectations! Highly recommend."
+  },
+  {
+    "tourId": "tour-002",
+    "reviewId": "review-012",
+    "authorName": "Chris Perez",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-21",
+    "rate": 4,
+    "reviewContent": "Beautiful locations, but lacked a bit in organization."
+  },
+  {
+    "tourId": "tour-002",
+    "reviewId": "review-013",
+    "authorName": "Olivia Brown",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-19",
+    "rate": 3,
+    "reviewContent": "Interesting spots, but the audio guide was hard to hear."
+  },
+  {
+    "tourId": "tour-002",
+    "reviewId": "review-014",
+    "authorName": "Daniel Young",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-18",
+    "rate": 2,
+    "reviewContent": "Not what I expected, unfortunately."
+  },
+  {
+    "tourId": "tour-002",
+    "reviewId": "review-015",
+    "authorName": "Megan Scott",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-17",
+    "rate": 4,
+    "reviewContent": "A great experience overall with minor hiccups."
+  },
+  {
+    "tourId": "tour-003",
+    "reviewId": "review-016",
+    "authorName": "Zoe Harris",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-23",
+    "rate": 5,
+    "reviewContent": "Best tour ever! Will definitely come again."
+  },
+  {
+    "tourId": "tour-003",
+    "reviewId": "review-017",
+    "authorName": "Ethan White",
+    "authorImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 4,
+    "reviewContent": "Had a wonderful experience but could use more time at each location."
+  },
+  {
+    "tourId": "tour-003",
+    "reviewId": "review-018",
+    "authorName": "Isabella Davis",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-22",
+    "rate": 5,
+    "reviewContent": "This tour was unforgettable, truly a great experience!"
+  },
+  {
+    "tourId": "tour-003",
+    "reviewId": "review-019",
+    "authorName": "Lucas Taylor",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-21",
+    "rate": 3,
+    "reviewContent": "Interesting sites, but the guide could have been more enthusiastic."
+  },
+  {
+    "tourId": "tour-003",
+    "reviewId": "review-020",
+    "authorName": "Charlotte Young",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-19",
+    "rate": 4,
+    "reviewContent": "Overall good experience, though some sites felt rushed."
+  },
+  {
+    "tourId": "tour-003",
+    "reviewId": "review-021",
+    "authorName": "Benjamin Hall",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-18",
+    "rate": 2,
+    "reviewContent": "Disappointing experience, wouldn't recommend."
+  },
+  {
+    "tourId": "tour-003",
+    "reviewId": "review-022",
+    "authorName": "Grace Robinson",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-17",
+    "rate": 4,
+    "reviewContent": "Good tour with nice highlights but some delays."
+  },
+  {
+    "tourId": "tour-004",
+    "reviewId": "review-023",
+    "authorName": "Liam Harris",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-23",
+    "rate": 5,
+    "reviewContent": "Outstanding tour with knowledgeable guides!"
+  },
+  {
+    "tourId": "tour-004",
+    "reviewId": "review-024",
+    "authorName": "Chloe Brooks",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 5,
+    "reviewContent": "Enjoyed the experience, but wished for more historical context."
+  },
+  {
+    "tourId": "tour-004",
+    "reviewId": "review-025",
+    "authorName": "Oliver Martin",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-22",
+    "rate": 5,
+    "reviewContent": "Fabulous experience! Would highly recommend this tour."
+  },
+  {
+    "tourId": "tour-004",
+    "reviewId": "review-026",
+    "authorName": "Ava White",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-21",
+    "rate": 3,
+    "reviewContent": "Good tour, but some parts felt rushed."
+  },
+  {
+    "tourId": "tour-004",
+    "reviewId": "review-027",
+    "authorName": "Daniel Cruz",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-19",
+    "rate": 5,
+    "reviewContent": "Well-organized tour with amazing scenery."
+  },
+  {
+    "tourId": "tour-004",
+    "reviewId": "review-028",
+    "authorName": "Evelyn King",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-18",
+    "rate": 1,
+    "reviewContent": "Not worth the price; had better tours before."
+  },
+  {
+    "tourId": "tour-004",
+    "reviewId": "review-029",
+    "authorName": "Matthew Nelson",
+    "authorImageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-17",
+    "rate": 4,
+    "reviewContent": "Great trip overall, just a few minor issues."
+  },
+  {
+    "tourId": "tour-005",
+    "reviewId": "review-030",
+    "authorName": "Sophia Harris",
+    "authorImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-23",
+    "rate": 5,
+    "reviewContent": "An incredible experience with breathtaking views!"
+  },
+  {
+    "tourId": "tour-005",
+    "reviewId": "review-031",
+    "authorName": "Jacob Brown",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 5,
+    "reviewContent": "Very enjoyable and informative; would recommend to others."
+  },
+  {
+    "tourId": "tour-005",
+    "reviewId": "review-032",
+    "authorName": "Ella Davis",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-22",
+    "rate": 5,
+    "reviewContent": "Amazing tour with joyful experiences all around."
+  },
+  {
+    "tourId": "tour-005",
+    "reviewId": "review-033",
+    "authorName": "James Smith",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-21",
+    "rate": 3,
+    "reviewContent": "Good but needed more time at each stop."
+  },
+  {
+    "tourId": "tour-005",
+    "reviewId": "review-034",
+    "authorName": "Amelia Wilson",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-19",
+    "rate": 4,
+    "reviewContent": "Decent tour, with picturesque locations."
+  },
+  {
+    "tourId": "tour-005",
+    "reviewId": "review-035",
+    "authorName": "Matthew Johnson",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-18",
+    "rate": 1,
+    "reviewContent": "Overall disappointed; didn't match expectations."
+  },
+  {
+    "tourId": "tour-005",
+    "reviewId": "review-036",
+    "authorName": "Isabella Martin",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-17",
+    "rate": 5,
+    "reviewContent": "Wonderful places visited; guides were very friendly."
+  },
+  {
+    "tourId": "tour-006",
+    "reviewId": "review-037",
+    "authorName": "Samantha Brown",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-23",
+    "rate": 5,
+    "reviewContent": "An extraordinary tour filled with breathtaking sights!"
+  },
+  {
+    "tourId": "tour-006",
+    "reviewId": "review-038",
+    "authorName": "Andrew Smith",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 3,
+    "reviewContent": "Great locations, but the timing could have been better."
+  },
+  {
+    "tourId": "tour-006",
+    "reviewId": "review-039",
+    "authorName": "Mia Williams",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-22",
+    "rate": 5,
+    "reviewContent": "Incredible experience! I loved every moment."
+  },
+  {
+    "tourId": "tour-006",
+    "reviewId": "review-040",
+    "authorName": "Olivia Lee",
+    "authorImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-21",
+    "rate": 3,
+    "reviewContent": "Overall good, but some aspects felt unorganized."
+  },
+  {
+    "tourId": "tour-006",
+    "reviewId": "review-041",
+    "authorName": "Ethan Clark",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-19",
+    "rate": 5,
+    "reviewContent": "Beautiful places visited, informative guides!"
+  },
+  {
+    "tourId": "tour-006",
+    "reviewId": "review-042",
+    "authorName": "Madison White",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-18",
+    "rate": 1,
+    "reviewContent": "Felt rushed; didn't get to enjoy the sights."
+  },
+  {
+    "tourId": "tour-006",
+    "reviewId": "review-043",
+    "authorName": "Liam Harris",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-17",
+    "rate": 4,
+    "reviewContent": "Great experience overall, would recommend!"
+  },
+  {
+    "tourId": "tour-007",
+    "reviewId": "review-044",
+    "authorName": "Henry Martin",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-23",
+    "rate": 5,
+    "reviewContent": "Absolutely wonderful! Every part was delightful!"
+  },
+  {
+    "tourId": "tour-007",
+    "reviewId": "review-045",
+    "authorName": "Amelia James",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 4,
+    "reviewContent": "Great experience; learned a lot about the culture."
+  },
+  {
+    "tourId": "tour-007",
+    "reviewId": "review-046",
+    "authorName": "Oliver Garcia",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-22",
+    "rate": 5,
+    "reviewContent": "This tour was worth every penny!"
+  },
+  {
+    "tourId": "tour-007",
+    "reviewId": "review-047",
+    "authorName": "Catherine Scott",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-21",
+    "rate": 3,
+    "reviewContent": "It was okay, but I expected more engagement from the guide."
+  },
+  {
+    "tourId": "tour-007",
+    "reviewId": "review-048",
+    "authorName": "Benjamin Lewis",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-19",
+    "rate": 4,
+    "reviewContent": "A well-structured tour overall, I enjoyed it."
+  },
+  {
+    "tourId": "tour-007",
+    "reviewId": "review-049",
+    "authorName": "Sophie Robinson",
+    "authorImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-18",
+    "rate": 2,
+    "reviewContent": "Too short for the amount paid."
+  },
+  {
+    "tourId": "tour-007",
+    "reviewId": "review-050",
+    "authorName": "Michael Hall",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-17",
+    "rate": 4,
+    "reviewContent": "Great experience, highly informative!"
+  },
+  {
+    "tourId": "tour-008",
+    "reviewId": "review-051",
+    "authorName": "Jessica Black",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-23",
+    "rate": 5,
+    "reviewContent": "An experience of a lifetime! Fantastic tour."
+  },
+  {
+    "tourId": "tour-008",
+    "reviewId": "review-052",
+    "authorName": "William Wright",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 4,
+    "reviewContent": "Beautiful sites; some guides were overly chatty."
+  },
+  {
+    "tourId": "tour-008",
+    "reviewId": "review-053",
+    "authorName": "Ella Young",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-22",
+    "rate": 5,
+    "reviewContent": "So much fun! Highly recommend to friends."
+  },
+  {
+    "tourId": "tour-008",
+    "reviewId": "review-054",
+    "authorName": "Daniel Green",
+    "authorImageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-21",
+    "rate": 3,
+    "reviewContent": "Nice experience but needed more adventure."
+  },
+  {
+    "tourId": "tour-008",
+    "reviewId": "review-055",
+    "authorName": "Lily Harris",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-19",
+    "rate": 4,
+    "reviewContent": "Great sights, worth the time spent!"
+  },
+  {
+    "tourId": "tour-008",
+    "reviewId": "review-056",
+    "authorName": "James Taylor",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-18",
+    "rate": 2,
+    "reviewContent": "Too much downtime; not enough action."
+  },
+  {
+    "tourId": "tour-008",
+    "reviewId": "review-057",
+    "authorName": "Grace Brown",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-17",
+    "rate": 4,
+    "reviewContent": "An enjoyable tour overall! Great sights."
+  },
+  {
+    "tourId": "tour-009",
+    "reviewId": "review-058",
+    "authorName": "Evelyn Scott",
+    "authorImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-23",
+    "rate": 5,
+    "reviewContent": "One of the best tours I've ever experienced!"
+  },
+  {
+    "tourId": "tour-009",
+    "reviewId": "review-059",
+    "authorName": "Isaac Martinez",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 4,
+    "reviewContent": "Good tour, but some locations could be improved."
+  },
+  {
+    "tourId": "tour-009",
+    "reviewId": "review-060",
+    "authorName": "Chloe White",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-22",
+    "rate": 5,
+    "reviewContent": "Fantastic experience! Can't wait to go again."
+  },
+  {
+    "tourId": "tour-009",
+    "reviewId": "review-061",
+    "authorName": "Nathan Wilson",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-21",
+    "rate": 3,
+    "reviewContent": "Nice tour, but could benefit from better guides."
+  },
+  {
+    "tourId": "tour-009",
+    "reviewId": "review-062",
+    "authorName": "Emma Davis",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-19",
+    "rate": 4,
+    "reviewContent": "Great value for the money; very enjoyable!"
+  },
+  {
+    "tourId": "tour-009",
+    "reviewId": "review-063",
+    "authorName": "Ava Johnson",
+    "authorImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-18",
+    "rate": 2,
+    "reviewContent": "Not what I expected; some places felt neglected."
+  },
+  {
+    "tourId": "tour-009",
+    "reviewId": "review-064",
+    "authorName": "Liam Harris",
+    "authorImageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-17",
+    "rate": 4,
+    "reviewContent": "Well-organized tour with lovely locations!"
+  },
+  {
+    "tourId": "tour-010",
+    "reviewId": "review-065",
+    "authorName": "Logan Martin",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-23",
+    "rate": 5,
+    "reviewContent": "Best experience! Truly unforgettable!"
+  },
+  {
+    "tourId": "tour-010",
+    "reviewId": "review-066",
+    "authorName": "Aurora Lee",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-20",
+    "rate": 4,
+    "reviewContent": "Nice tour; learned many interesting facts!"
+  },
+  {
+    "tourId": "tour-011",
+    "reviewId": "review-067",
+    "authorName": "Chloe Wilson",
+    "authorImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-24",
+    "rate": 4,
+    "reviewContent": "A fantastic day! The sights were breathtaking and the guides were informative."
+  },
+  {
+    "tourId": "tour-012",
+    "reviewId": "review-068",
+    "authorName": "James Taylor",
+    "authorImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-25",
+    "rate": 5,
+    "reviewContent": "Amazing experience! Everything was well-organized and exceeded my expectations."
+  },
+  {
+    "tourId": "tour-013",
+    "reviewId": "review-069",
+    "authorName": "Olivia Lee",
+    "authorImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-26",
+    "rate": 3,
+    "reviewContent": "While the tour was enjoyable, I felt some locations were overcrowded."
+  },
+  {
+    "tourId": "tour-014",
+    "reviewId": "review-070",
+    "authorName": "Benjamin Green",
+    "authorImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=100&q=80",
+    "createdAt": "2026-05-27",
+    "rate": 4,
+    "reviewContent": "Great tour with interesting insights. I would recommend it to anyone looking for adventure."
+  }
+]

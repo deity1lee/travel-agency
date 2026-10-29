@@ -1,0 +1,1175 @@
+[
+  {
+    "tourId": "tour-001f",
+    "name": "A guided hike in the Dolomites",
+    "destination": "Veneto, Italy",
+    "rating": 0,
+    "reviews": 7,
+    "durations": [
+      "7 days",
+      "10 days",
+      "12 days"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1521292270410-a8c4d716d518?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1491555103944-7c647fd857e6?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Experience the excitement of 7 days among the wonders of the Brenta Dolomites! Unforgettable excursions, breathtaking views, 7 days of adventure in a paradise for hikers.",
+    "freeCancelationDaysBefore": 10,
+    "accommodation": "During your hike in Dolomites, you will be accommodated in mountain huts. The tour package includes stays in shared dormitory-style rooms.",
+    "hotelName": "Rifugio Auronzo",
+    "hotelDescription": "Traditional mountain hut refuge offering authentic Alpine hospitality with mountain views and hearty cuisine.",
+    "customDetails": {
+      "Tour guide": "English, Italian",
+      "Transfer": "Organized transfer from Milan airport.",
+      "Small group": "Maximum number of participants: 8"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 8,
+      "childrenMaxValue": 0,
+      "totalMaxValue": 8
+    },
+    "tourType": "HIKE",
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-07-15",
+        "duration": "7 days",
+        "price": 1400,
+        "availableAdultSpots": 8,
+        "availableChildSpots": 0
+      },
+      {
+        "startDate": "2026-07-22",
+        "duration": "10 days",
+        "price": 1900,
+        "availableAdultSpots": 8,
+        "availableChildSpots": 0
+      },
+      {
+        "startDate": "2026-08-29",
+        "duration": "12 days",
+        "price": 2200,
+        "availableAdultSpots": 8,
+        "availableChildSpots": 0
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "HB",
+        "pricePerDay": 25.0
+      },
+      {
+        "mealPlan": "FB",
+        "pricePerDay": 40.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-002f",
+    "name": "Tropical Caribe",
+    "destination": "Punta Cana, Dominican Republic",
+    "rating": 0,
+    "reviews": 7,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1540202404-d0c7fe46a087?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551882547-ff40c4a49f5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Relax on pristine white-sand beaches and enjoy crystal-clear Caribbean waters. All-inclusive resort experience with world-class amenities and vibrant nightlife.",
+    "freeCancelationDaysBefore": 14,
+    "accommodation": "Luxury 5-star beachfront resort with private beach access and multiple pools.",
+    "hotelName": "Barceló Bávaro Grand Resort",
+    "hotelDescription": "Award-winning all-inclusive resort on Bávaro Beach with over 2 km of private coastline.",
+    "customDetails": {
+      "Beach access": "Private beach 50 m from hotel",
+      "Water sports": "Snorkeling, kayaking, windsurfing included"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 8,
+      "childrenMaxValue": 4,
+      "totalMaxValue": 12
+    },
+    "durations": [
+      "7 days",
+      "10 days",
+      "12 days"
+    ],
+    "tourType": "RESORT",
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-05-04",
+        "duration": "7 days",
+        "price": 1400,
+        "availableAdultSpots": 8,
+        "availableChildSpots": 4
+      },
+      {
+        "startDate": "2026-07-14",
+        "duration": "10 days",
+        "price": 1850,
+        "availableAdultSpots": 8,
+        "availableChildSpots": 4
+      },
+      {
+        "startDate": "2026-09-01",
+        "duration": "12 days",
+        "price": 2100,
+        "availableAdultSpots": 8,
+        "availableChildSpots": 4
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "HB",
+        "pricePerDay": 25.0
+      },
+      {
+        "mealPlan": "FB",
+        "pricePerDay": 40.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-003f",
+    "name": "Riverside Resort",
+    "destination": "Ao Nang, Thailand",
+    "rating": 0,
+    "reviews": 6,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Discover the breathtaking limestone cliffs and emerald waters of Krabi. Perfect blend of adventure and relaxation in one of Thailand's most iconic destinations.",
+    "freeCancelationDaysBefore": 5,
+    "accommodation": "Riverside boutique resort with stunning views of the mangrove forest and karst mountains.",
+    "hotelName": "Sofitel Krabi Phokeethra",
+    "hotelDescription": "Luxury resort set in tropical gardens with three pools and direct beach access.",
+    "customDetails": {
+      "Island hopping": "4 Islands tour included",
+      "Snorkeling": "Equipment provided"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 4,
+      "childrenMaxValue": 2,
+      "totalMaxValue": 6
+    },
+    "durations": [
+      "7 days",
+      "10 days",
+      "12 days"
+    ],
+    "tourType": "RESORT",
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-05-10",
+        "duration": "7 days",
+        "price": 1400,
+        "availableAdultSpots": 4,
+        "availableChildSpots": 2
+      },
+      {
+        "startDate": "2026-05-15",
+        "duration": "10 days",
+        "price": 1800,
+        "availableAdultSpots": 4,
+        "availableChildSpots": 2
+      },
+      {
+        "startDate": "2026-10-15",
+        "duration": "12 days",
+        "price": 2050,
+        "availableAdultSpots": 4,
+        "availableChildSpots": 2
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "HB",
+        "pricePerDay": 25.0
+      },
+      {
+        "mealPlan": "FB",
+        "pricePerDay": 40.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-004f",
+    "name": "Costa Cruise",
+    "destination": "Mediterranean Sea",
+    "rating": 0.0,
+    "reviews": 6,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1534008897995-27a23e859048?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1599640842225-85d9cd446890?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Sail the legendary Mediterranean aboard the Costa Luminosa. Visit iconic ports in Italy, France, Spain and Greece on this unforgettable 7-day cruise.",
+    "freeCancelationDaysBefore": 21,
+    "accommodation": "Ocean-view cabin aboard Costa Luminosa cruise ship with full onboard amenities.",
+    "hotelName": "Costa Luminosa Cruise Ship",
+    "hotelDescription": "Modern luxury cruise ship with ocean-view cabins, multiple dining venues, entertainment facilities, and Mediterranean sailing experience.",
+    "customDetails": {
+      "Ports": "Genoa, Marseille, Barcelona, Palma, Civitavecchia",
+      "Shore excursions": "Optional excursions available at each port",
+      "Onboard": "Pools, spa, casino, theatre included"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 4,
+      "childrenMaxValue": 2,
+      "totalMaxValue": 6
+    },
+    "durations": [
+      "7 days",
+      "12 days"
+    ],
+    "tourType": "CRUISE",
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-04-18",
+        "duration": "7 days",
+        "price": 1400,
+        "availableAdultSpots": 4,
+        "availableChildSpots": 2
+      },
+      {
+        "startDate": "2026-09-18",
+        "duration": "12 days",
+        "price": 2300,
+        "availableAdultSpots": 4,
+        "availableChildSpots": 2
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "HB",
+        "pricePerDay": 25.0
+      },
+      {
+        "mealPlan": "FB",
+        "pricePerDay": 40.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-001",
+    "name": "Dolomites: 7-day guided hike",
+    "destination": "Dolomites Mountains, Italy",
+    "tourType": "HIKE",
+    "rating": 0,
+    "reviews": 8,
+    "freeCancelationDaysBefore": 10,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Experience the excitement of 7 days among the wonders of the Brenta Dolomites! Unforgettable excursions, breathtaking views, 7 days of adventure in a paradise.",
+    "accommodation": "During your hike in Dolomites, you will be accommodated in mountain huts. The tour package includes stays in shared dormitory-style rooms. Solo travelers will be placed with another traveler of the same gender.",
+    "hotelName": "Rifugio Tre Cime",
+    "hotelDescription": "Well-established mountain refuge providing comfortable accommodation with stunning Dolomite views and traditional Alpine cuisine.",
+    "customDetails": {
+      "tourGuide": "English, Italian",
+      "transfer": "Organized transfer from Milan airport.",
+      "smallGroup": "Maximum number of participants: 8"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 8,
+      "childrenMaxValue": 0,
+      "totalMaxValue": 8
+    },
+    "durations": [
+      "7 days",
+      "10 days",
+      "12 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-06-18",
+        "duration": "7 days",
+        "price": 1400.0,
+        "availableAdultSpots": 8,
+        "availableChildSpots": 0
+      },
+      {
+        "startDate": "2026-07-14",
+        "duration": "10 days",
+        "price": 1800.0,
+        "availableAdultSpots": 8,
+        "availableChildSpots": 0
+      },
+      {
+        "startDate": "2026-06-29",
+        "duration": "12 days",
+        "price": 2200.0,
+        "availableAdultSpots": 8,
+        "availableChildSpots": 0
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "HB",
+        "pricePerDay": 25.0
+      },
+      {
+        "mealPlan": "FB",
+        "pricePerDay": 40.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-002",
+    "name": "Swiss Alps: Glacier & Mountain Adventure",
+    "destination": "Zermatt, Switzerland",
+    "tourType": "RESORT",
+    "rating": 0,
+    "reviews": 7,
+    "freeCancelationDaysBefore": 14,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1534008897995-27a23e859048?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1599640842225-85d9cd446890?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Explore snowy peaks, alpine villages, and scenic trails in the Swiss Alps.",
+    "accommodation": "3–4 star alpine lodges with mountain views.",
+    "hotelName": "Mont-Cervin Palace",
+    "hotelDescription": "Luxury alpine resort hotel in Zermatt with stunning Matterhorn views, comprehensive amenities, and premium Swiss hospitality.",
+    "customDetails": {
+      "tourGuide": "English, German",
+      "transfer": "Train transfer from Zurich included.",
+      "smallGroup": "Max 10 participants"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 10,
+      "childrenMaxValue": 2,
+      "totalMaxValue": 12
+    },
+    "durations": [
+      "7 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-07-19",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 10,
+        "availableChildSpots": 2
+      },
+      {
+        "startDate": "2026-07-01",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 10,
+        "availableChildSpots": 2
+      },
+      {
+        "startDate": "2026-08-01",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 10,
+        "availableChildSpots": 2
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "HB",
+        "pricePerDay": 25.0
+      },
+      {
+        "mealPlan": "FB",
+        "pricePerDay": 40.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-003",
+    "name": "Japan: Tokyo to Kyoto Cultural Journey",
+    "destination": "Tokyo & Kyoto, Japan",
+    "tourType": "RESORT",
+    "rating": 0,
+    "reviews": 7,
+    "freeCancelationDaysBefore": 21,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1540202404-d0c7fe46a087?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551882547-ff40c4a49f5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Discover temples, neon cities, and traditional Japanese culture.",
+    "accommodation": "Hotels in Tokyo and traditional ryokan in Kyoto.",
+    "hotelName": "Hotel Metropolitan & Yumoto Ryokan",
+    "hotelDescription": "Premium hospitality experience combining modern Tokyo hotel with traditional Kyoto ryokan featuring authentic Japanese accommodations and ceremonies.",
+    "customDetails": {
+      "tourGuide": "English, Japanese",
+      "transfer": "Bullet train included.",
+      "smallGroup": "Max 15 participants"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 15,
+      "childrenMaxValue": 5,
+      "totalMaxValue": 20
+    },
+    "durations": [
+      "7 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-07-20",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      },
+      {
+        "startDate": "2026-07-10",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      },
+      {
+        "startDate": "2026-08-10",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-004",
+    "name": "Iceland: Northern Lights & Volcano Tour",
+    "destination": "Reykjavik, Iceland",
+    "tourType": "HIKE",
+    "rating": 0,
+    "reviews": 7,
+    "freeCancelationDaysBefore": 10,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1521292270410-a8c4d716d518?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1491555103944-7c647fd857e6?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Chase the Northern Lights and explore glaciers and volcanoes.",
+    "accommodation": "Comfort hotels in Reykjavik and countryside lodges.",
+    "hotelName": "Hilton Reykjavik & Nature Lodges",
+    "hotelDescription": "City luxury hotel paired with cozy countryside lodges offering authentic Icelandic comfort with easy access to natural wonders and Northern lights.",
+    "customDetails": {
+      "tourGuide": "English",
+      "transfer": "Airport pickup included.",
+      "smallGroup": "Max 12 participants"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 12,
+      "childrenMaxValue": 0,
+      "totalMaxValue": 12
+    },
+    "durations": [
+      "7 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-07-21",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      },
+      {
+        "startDate": "2026-07-10",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      },
+      {
+        "startDate": "2026-08-10",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "AI",
+        "pricePerDay": 50.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-005",
+    "name": "Safari: Kenya Wildlife Experience",
+    "destination": "Maasai Mara, Kenya",
+    "tourType": "HIKE",
+    "rating": 0,
+    "reviews": 7,
+    "freeCancelationDaysBefore": 15,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1540202404-d0c7fe46a087?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551882547-ff40c4a49f5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "See lions, elephants, and the Great Migration in Kenya.",
+    "accommodation": "Luxury safari lodges and tented camps.",
+    "hotelName": "Serena Safari Lodge & Camps",
+    "hotelDescription": "Premium safari accommodations featuring luxury lodges and tented camps with stunning wildlife views, world-class dining, and authentic Maasai Mara experience.",
+    "customDetails": {
+      "tourGuide": "English",
+      "transfer": "4x4 safari vehicle included.",
+      "smallGroup": "Max 10 participants"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 10,
+      "childrenMaxValue": 0,
+      "totalMaxValue": 10
+    },
+    "durations": [
+      "7 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-07-17",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      },
+      {
+        "startDate": "2026-07-20",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      },
+      {
+        "startDate": "2026-08-20",
+        "duration": "7 days",
+        "price": 2100.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "HB",
+        "pricePerDay": 25.0
+      },
+      {
+        "mealPlan": "FB",
+        "pricePerDay": 40.0
+      },
+      {
+        "mealPlan": "AI",
+        "pricePerDay": 55.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-006",
+    "name": "Alps: Scenic 5-day hiking adventure",
+    "destination": "Swiss Alps, Switzerland",
+    "tourType": "HIKE",
+    "rating": 0,
+    "reviews": 7,
+    "freeCancelationDaysBefore": 14,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1521292270410-a8c4d716d518?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1491555103944-7c647fd857e6?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Join us for an unforgettable 5-day hiking adventure through the breathtaking landscapes of the Swiss Alps.",
+    "accommodation": "Stay in cozy mountain chalets with stunning views.",
+    "hotelName": "Alpina Mountain Chalets",
+    "hotelDescription": "Charming rustic chalets in the Swiss Alps providing warm hospitality, spectacular mountain scenery, and comfortable base for hiking adventures.",
+    "customDetails": {
+      "tourGuide": "English, German",
+      "transfer": "Shuttle service from Zurich available.",
+      "smallGroup": "Maximum participants: 10"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 10,
+      "childrenMaxValue": 0,
+      "totalMaxValue": 10
+    },
+    "durations": [
+      "5 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-07-01",
+        "duration": "5 days",
+        "price": 1600.0,
+        "availableAdultSpots": 10,
+        "availableChildSpots": 0
+      },
+      {
+        "startDate": "2026-08-01",
+        "duration": "5 days",
+        "price": 1600.0,
+        "availableAdultSpots": 10,
+        "availableChildSpots": 0
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-007",
+    "name": "Andes: 6-day trekking expedition",
+    "destination": "Andes Mountains, Chile",
+    "tourType": "HIKE",
+    "rating": 0,
+    "reviews": 7,
+    "freeCancelationDaysBefore": 10,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1521292270410-a8c4d716d518?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1491555103944-7c647fd857e6?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Experience the majestic Andes on this 6-day trekking expedition with scenic vistas and rich culture.",
+    "accommodation": "Camp in beautiful locations with provided tents and equipment.",
+    "hotelName": "Andes Mountaineering Camps",
+    "hotelDescription": "Professional mountain camping experience in the Andes with comfortable tents, experienced guides, and all necessary equipment provided for safe high-altitude trekking.",
+    "customDetails": {
+      "tourGuide": "English, Spanish",
+      "transfer": "Pickup from Santiago included.",
+      "smallGroup": "Maximum group size: 12"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 12,
+      "childrenMaxValue": 0,
+      "totalMaxValue": 12
+    },
+    "durations": [
+      "6 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-08-10",
+        "duration": "6 days",
+        "price": 1900.0,
+        "availableAdultSpots": 12,
+        "availableChildSpots": 0
+      },
+      {
+        "startDate": "2026-09-10",
+        "duration": "6 days",
+        "price": 1900.0,
+        "availableAdultSpots": 12,
+        "availableChildSpots": 0
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-008",
+    "name": "Rockies: 4-day wilderness exploration",
+    "destination": "Rocky Mountains, USA",
+    "tourType": "HIKE",
+    "rating": 0,
+    "reviews": 7,
+    "freeCancelationDaysBefore": 5,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1540202404-d0c7fe46a087?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551882547-ff40c4a49f5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Explore the stunning Rocky Mountains on a 4-day wilderness adventure filled with hiking and wildlife.",
+    "accommodation": "Lodges and cabins with rustic charm.",
+    "hotelName": "Rocky Mountain Lodges & Cabins",
+    "hotelDescription": "Authentic rustic lodges and cozy cabins in the Rocky Mountains offering comfortable wilderness accommodation with traditional mountain hospitality and regional cuisine.",
+    "customDetails": {
+      "tourGuide": "English",
+      "transfer": "Transport to and from Denver included.",
+      "smallGroup": "Maximum group size: 15"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 15,
+      "childrenMaxValue": 3,
+      "totalMaxValue": 18
+    },
+    "durations": [
+      "4 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-09-05",
+        "duration": "4 days",
+        "price": 1200.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 3
+      },
+      {
+        "startDate": "2026-10-05",
+        "duration": "4 days",
+        "price": 1200.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 3
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-009",
+    "name": "Pyrenees: 3-day scenic hike",
+    "destination": "Pyrenees, France",
+    "tourType": "HIKE",
+    "rating": 0,
+    "reviews": 7,
+    "freeCancelationDaysBefore": 7,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Immerse yourself in nature during this 3-day scenic hike in the breathtaking Pyrenees mountains.",
+    "accommodation": "Stay in charming guesthouses along the route.",
+    "hotelName": "Pyrenean Guesthouses Network",
+    "hotelDescription": "Collection of charming family-run guesthouses throughout the Pyrenees offering warm hospitality, authentic Pyrenean cuisine, and immersive cultural experience.",
+    "customDetails": {
+      "tourGuide": "English, French",
+      "transfer": "Bus transfer from Toulouse available.",
+      "smallGroup": "Maximum participants: 20"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 20,
+      "childrenMaxValue": 5,
+      "totalMaxValue": 25
+    },
+    "durations": [
+      "3 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-10-15",
+        "duration": "3 days",
+        "price": 800.0,
+        "availableAdultSpots": 20,
+        "availableChildSpots": 5
+      },
+      {
+        "startDate": "2026-11-15",
+        "duration": "3 days",
+        "price": 800.0,
+        "availableAdultSpots": 20,
+        "availableChildSpots": 5
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-010",
+    "name": "Caribbean: 5-day Island Adventure",
+    "destination": "Bahamas, Caribbean",
+    "tourType": "CRUISE",
+    "rating": 0,
+    "reviews": 2,
+    "freeCancelationDaysBefore": 10,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Experience the sun, sea, and sand on this 5-day adventure across the stunning Bahamas.",
+    "accommodation": "Stay at luxury beach resorts with ocean views.",
+    "hotelName": "Paradise Bay Beach Resorts",
+    "hotelDescription": "Luxurious oceanfront beach resorts in the Bahamas featuring pristine white-sand beaches, crystal-clear waters, world-class amenities, and Caribbean island elegance.",
+    "customDetails": {
+      "tourGuide": "English, Spanish",
+      "transfer": "Airport transfers included.",
+      "smallGroup": "Maximum participants: 15"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 15,
+      "childrenMaxValue": 5,
+      "totalMaxValue": 20
+    },
+    "durations": [
+      "5 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-11-01",
+        "duration": "5 days",
+        "price": 1800.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      },
+      {
+        "startDate": "2026-12-01",
+        "duration": "5 days",
+        "price": 1800.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 5
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "FB",
+        "pricePerDay": 50.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-011",
+    "name": "Scotland: 6-day Highland Tour",
+    "destination": "Scottish Highlands, Scotland",
+    "tourType": "HIKE",
+    "rating": 0,
+    "reviews": 1,
+    "freeCancelationDaysBefore": 14,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Explore the majestic landscapes and rich history of the Scottish Highlands over 6 days.",
+    "accommodation": "Stay in traditional inns and castles.",
+    "hotelName": "Scottish Highland Inns & Castles",
+    "hotelDescription": "Historic Scottish accommodations including traditional country inns and converted castle hotels offering authentic Highland heritage with modern comfort and warm Scottish hospitality.",
+    "customDetails": {
+      "tourGuide": "English, Gaelic",
+      "transfer": "Bus transfers included.",
+      "smallGroup": "Maximum group size: 12"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 12,
+      "childrenMaxValue": 2,
+      "totalMaxValue": 14
+    },
+    "durations": [
+      "6 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2026-12-05",
+        "duration": "6 days",
+        "price": 2100.0,
+        "availableAdultSpots": 12,
+        "availableChildSpots": 2
+      },
+      {
+        "startDate": "2027-01-05",
+        "duration": "6 days",
+        "price": 2100.0,
+        "availableAdultSpots": 12,
+        "availableChildSpots": 2
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "HB",
+        "pricePerDay": 30.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-012",
+    "name": "New Zealand: 8-day Adventure Tour",
+    "destination": "South Island, New Zealand",
+    "tourType": "HIKE",
+    "rating": 0,
+    "reviews": 1,
+    "freeCancelationDaysBefore": 7,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1540202404-d0c7fe46a087?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551882547-ff40c4a49f5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Experience breathtaking landscapes and thrilling activities on this 8-day adventure in New Zealand.",
+    "accommodation": "Hotels and lodges with stunning views.",
+    "hotelName": "Queenstown Adventure Hotels & Lodges",
+    "hotelDescription": "Premium hotels and scenic lodges in Queenstown and South Island offering breathtaking New Zealand landscapes, outdoor adventure access, and luxury accommodation.",
+    "customDetails": {
+      "tourGuide": "English",
+      "transfer": "Transfers from Christchurch included.",
+      "smallGroup": "Maximum participants: 10"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 10,
+      "childrenMaxValue": 0,
+      "totalMaxValue": 10
+    },
+    "durations": [
+      "8 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2027-01-15",
+        "duration": "8 days",
+        "price": 3200.0,
+        "availableAdultSpots": 10,
+        "availableChildSpots": 0
+      },
+      {
+        "startDate": "2027-02-15",
+        "duration": "8 days",
+        "price": 3200.0,
+        "availableAdultSpots": 10,
+        "availableChildSpots": 0
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "HB",
+        "pricePerDay": 45.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-013",
+    "name": "Norway: 5-day Fjords Exploration",
+    "destination": "Norwegian Fjords, Norway",
+    "tourType": "RESORT",
+    "rating": 0,
+    "reviews": 1,
+    "freeCancelationDaysBefore": 14,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Sail through stunning fjords and explore the natural beauty of Norway on this unforgettable 5-day tour.",
+    "accommodation": "Luxury cabins with breathtaking views.",
+    "hotelName": "Norwegian Fjord Luxury Cabins",
+    "hotelDescription": "Exclusive luxury cabins in Norway's stunning fjord region featuring panoramic water views, modern Scandinavian design, cozy fireplaces, and access to Norway's natural wonders.",
+    "customDetails": {
+      "tourGuide": "English, Norwegian",
+      "transfer": "Fjord cruise included.",
+      "smallGroup": "Maximum participants: 15"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 15,
+      "childrenMaxValue": 2,
+      "totalMaxValue": 17
+    },
+    "durations": [
+      "5 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2027-02-10",
+        "duration": "5 days",
+        "price": 2500.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 2
+      },
+      {
+        "startDate": "2027-03-10",
+        "duration": "5 days",
+        "price": 2500.0,
+        "availableAdultSpots": 15,
+        "availableChildSpots": 2
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "FB",
+        "pricePerDay": 50.0
+      }
+    ]
+  },
+  {
+    "tourId": "tour-014",
+    "name": "Australia: 7-day Outback Adventure",
+    "destination": "Australian Outback, Australia",
+    "tourType": "RESORT",
+    "rating": 0,
+    "reviews": 1,
+    "freeCancelationDaysBefore": 12,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1540202404-d0c7fe46a087?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551882547-ff40c4a49f5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "summary": "Explore the stunning landscapes and wildlife of the Australian Outback over 7 adventurous days.",
+    "accommodation": "Stay in eco-friendly lodges and camps.",
+    "hotelName": "Outback Eco-Lodges & Safari Camps",
+    "hotelDescription": "Sustainable eco-friendly accommodations in the Australian Outback combining comfort with environmental responsibility, offering unique wildlife encounters and authentic desert hospitality.",
+    "customDetails": {
+      "tourGuide": "English, Indigenous Guide",
+      "transfer": "Transport from Sydney included.",
+      "smallGroup": "Maximum participants: 20"
+    },
+    "guestQuantity": {
+      "adultsMaxValue": 20,
+      "childrenMaxValue": 4,
+      "totalMaxValue": 24
+    },
+    "durations": [
+      "7 days"
+    ],
+    "tourPackageOptions": [
+      {
+        "startDate": "2027-03-01",
+        "duration": "7 days",
+        "price": 2950.0,
+        "availableAdultSpots": 20,
+        "availableChildSpots": 4
+      },
+      {
+        "startDate": "2027-04-01",
+        "duration": "7 days",
+        "price": 2950.0,
+        "availableAdultSpots": 20,
+        "availableChildSpots": 4
+      }
+    ],
+    "mealSupplements": [
+      {
+        "mealPlan": "BB",
+        "pricePerDay": 0.0
+      },
+      {
+        "mealPlan": "HB",
+        "pricePerDay": 30.0
+      }
+    ]
+  }
+]
